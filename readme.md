@@ -2,3 +2,6 @@
 
 For experimentation.
 
+### Production
+
+> https://researchscientist.github.io/VueAppSplit/
